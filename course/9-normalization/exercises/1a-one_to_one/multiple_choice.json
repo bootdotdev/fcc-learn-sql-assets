@@ -1,0 +1,8 @@
+{
+  "question": "How would you model the relationship between a class and its name?",
+  "answers": [
+    "One to one",
+    "One to many",
+    "Many to many"
+  ]
+}

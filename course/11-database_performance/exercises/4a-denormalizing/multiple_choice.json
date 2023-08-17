@@ -1,0 +1,7 @@
+{
+  "question": "It's smart to start with a ____ database and ____ it as needed for speed.",
+  "answers": [
+    "Normalized, Denormalize",
+    "Denormalized, Normalize"
+  ]
+}

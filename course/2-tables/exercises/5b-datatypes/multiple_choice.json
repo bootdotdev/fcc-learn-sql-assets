@@ -1,0 +1,9 @@
+{
+  "question": "What type would you use to store a user's email?",
+  "answers": [
+    "TEXT",
+    "REAL",
+    "INTEGER",
+    "BLOB"
+  ]
+}

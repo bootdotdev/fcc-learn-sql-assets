@@ -1,0 +1,9 @@
+{
+  "question": "The 'Create' in CRUD maps to which SQL statement and HTTP Method?",
+  "answers": [
+    "INSERT, POST",
+    "SELECT, PUT",
+    "INSERT, GET",
+    "SELECT, GET"
+  ]
+}

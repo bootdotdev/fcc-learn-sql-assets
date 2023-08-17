@@ -1,0 +1,9 @@
+{
+  "question": "Which describes the values that match example 1?",
+  "answers": [
+    "Values that start with 'or', and are at least 3 characters in length.",
+    "Values that end with 'or', and are at least 3 characters in length.",
+    "Values that start with 'or', and have 3 characters exactly.",
+    "Values that end in 'or', and have 3 characters exactly."
+  ]
+}

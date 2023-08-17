@@ -1,0 +1,8 @@
+{
+  "question": "Given the tables and query, which JOIN type would produce the result",
+  "answers": [
+    "INNER JOIN",
+    "LEFT JOIN",
+    "FULL JOIN"
+  ]
+}

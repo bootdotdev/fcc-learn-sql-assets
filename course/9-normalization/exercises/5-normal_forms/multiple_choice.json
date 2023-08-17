@@ -1,0 +1,9 @@
+{
+  "question": "Which form has the most duplicate data?",
+  "answers": [
+    "1NF",
+    "2NF",
+    "3NF",
+    "BCNF"
+  ]
+}

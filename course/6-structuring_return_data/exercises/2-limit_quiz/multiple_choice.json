@@ -1,0 +1,7 @@
+{
+  "question": "'LIMIT 5' will always return 5 records",
+  "answers": [
+    "False",
+    "True"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "In the context of normalization, a primary key is made up of ____ table columns",
+  "answers": [
+    "1-many",
+    "1-2",
+    "1",
+    "0-1"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question": "Why are 'good' migrations written in a reversible manner?",
+  "answers": [
+    "So that if something goes wrong, the changes can be rolled back",
+    "They're not",
+    "Because you should always roll back changes before applying new ones"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question": "Which type of database always uses table structures?",
+  "answers": [
+    "SQL",
+    "NoSQL",
+    "Both"
+  ]
+}

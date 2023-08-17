@@ -1,0 +1,9 @@
+{
+  "question": "Which query would potentially return the data in example 1?",
+  "answers": [
+    "SELECT * from people ORDER BY age DESC",
+    "SELECT * from people ORDER BY age",
+    "SELECT * from people ORDER BY DESC age",
+    "SELECT * from people ORDER BY age ASC"
+  ]
+}

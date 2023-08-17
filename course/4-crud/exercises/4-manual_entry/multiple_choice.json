@@ -1,0 +1,7 @@
+{
+  "question": "Every time someone creates an account on boot.dev Allan or Lane has to manually add them to the database by hand-writing a SQL query",
+  "answers": [
+    "False",
+    "True"
+  ]
+}

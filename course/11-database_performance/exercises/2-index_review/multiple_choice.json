@@ -1,0 +1,9 @@
+{
+  "question": "A binary-tree index makes lookups...",
+  "answers": [
+    "O(log(n))",
+    "O(n)",
+    "O(n^2)",
+    "O(n*log(n)"
+  ]
+}

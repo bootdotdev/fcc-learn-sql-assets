@@ -1,0 +1,9 @@
+{
+  "question": "Which of the following statements about migrations is FALSE?",
+  "answers": [
+    "You can be fast and loose when writing migrations - a bad migration is easy to fix",
+    "Migrations are incremental changes made to a database",
+    "Well-written migrations are reversible",
+    "A good migration takes into account any systems that rely on the existing schema"
+  ]
+}

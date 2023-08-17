@@ -1,0 +1,7 @@
+{
+  "question": "When using an ORM, you ____",
+  "answers": [
+    "Call methods and functions made available via the ORM's API",
+    "Write a lot of raw SQL"
+  ]
+}

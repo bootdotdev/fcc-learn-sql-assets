@@ -1,0 +1,9 @@
+{
+  "question": "Pick the best example of data redundancy",
+  "answers": [
+    "A users address is stored in two different tables",
+    "Each table has an id field as its primary key",
+    "A country table and a users table each contain a field called name",
+    "Two tables both contain fields that store a boolean value"
+  ]
+}

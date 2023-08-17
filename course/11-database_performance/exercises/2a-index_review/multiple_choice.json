@@ -1,0 +1,9 @@
+{
+  "question": "Add indexes to...",
+  "answers": [
+    "Columns that you frequently perform lookups on",
+    "All columns",
+    "Only primary keys",
+    "Only foreign keys"
+  ]
+}

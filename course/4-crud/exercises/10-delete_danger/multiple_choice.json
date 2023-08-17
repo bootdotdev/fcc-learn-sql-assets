@@ -1,0 +1,9 @@
+{
+  "question": "You should ____ have automated backups being taken of a production database",
+  "answers": [
+    "Almost always",
+    "Never",
+    "Sometimes",
+    "Almost never"
+  ]
+}

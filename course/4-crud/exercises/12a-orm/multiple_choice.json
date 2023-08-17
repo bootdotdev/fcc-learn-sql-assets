@@ -1,0 +1,9 @@
+{
+  "question": "One advantage of an ORM is that it...",
+  "answers": [
+    "Makes your code less verbose",
+    "Ensures faster queries",
+    "Gives you more control over your database",
+    "Is easier to debug at a low-level"
+  ]
+}

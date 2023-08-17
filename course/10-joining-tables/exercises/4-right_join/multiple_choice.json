@@ -1,0 +1,9 @@
+{
+  "question": "We can retrieve the same records with a RIGHT JOIN and a LEFT JOIN by...",
+  "answers": [
+    "flipping the position of the tables in the join statement",
+    "giving up and drawing Venn diagrams",
+    "changing the field the tables are joined on",
+    "grouping the table by a different field"
+  ]
+}

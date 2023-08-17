@@ -1,0 +1,9 @@
+{
+  "question": "Select the best scenario to use a FULL JOIN?",
+  "answers": [
+    "When you need every single row from two tables, whether or not they're related",
+    "When you need all the results from a single table",
+    "When you need the matching results from two tables",
+    "when you need all results from one table, and matching results from another"
+  ]
+}

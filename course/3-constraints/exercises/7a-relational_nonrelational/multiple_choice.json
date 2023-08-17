@@ -1,0 +1,9 @@
+{
+  "question": "Non relational databases connect similar entities by using ____",
+  "answers": [
+    "Nested data",
+    "Keys",
+    "Concurrency",
+    "Flubber"
+  ]
+}

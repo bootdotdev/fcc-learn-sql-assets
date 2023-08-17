@@ -1,0 +1,7 @@
+{
+  "question": "SQL injection is best avoided by using a modern SQL package that handles the sanitization of user-provided values",
+  "answers": [
+    "True",
+    "False"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In the example, should you use a WHERE or a HAVING clause to filter down classes of a particular size?",
+  "answers": [
+    "HAVING",
+    "WHERE"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "question": "How is a 'true' boolean value stored and presented in SQLite?",
+  "answers": [
+    "1",
+    "0",
+    "The string 'true'",
+    "The string 'false'"
+  ]
+}

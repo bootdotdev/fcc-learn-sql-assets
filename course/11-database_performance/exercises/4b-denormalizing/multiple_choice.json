@@ -1,0 +1,8 @@
+{
+  "question": "A ____ database is easier to keep bug-free",
+  "answers": [
+    "Normalized",
+    "Denormalized",
+    "It's the same"
+  ]
+}

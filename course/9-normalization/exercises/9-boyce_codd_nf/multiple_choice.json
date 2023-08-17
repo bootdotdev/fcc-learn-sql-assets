@@ -1,0 +1,9 @@
+{
+  "question": "When can a table be in 3NF but not BCNF?",
+  "answers": [
+    "It has multiple possible primary key combinations, and one of the columns in a possible primary key is dependent on a column outside of that primary key",
+    "It has multiple possible primary keys",
+    "It has a primary key that depends on another column that's not a primary key",
+    "When Raymond F Boyce and Edgar F Codd decree it so from on-high"
+  ]
+}

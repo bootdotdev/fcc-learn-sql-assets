@@ -1,0 +1,7 @@
+{
+  "question": "Will database migrations often be coupled with application code updates?",
+  "answers": [
+    "Yes",
+    "No"
+  ]
+}

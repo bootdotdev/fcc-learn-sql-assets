@@ -1,0 +1,9 @@
+{
+  "question": "Should you use an ORM?",
+  "answers": [
+    "It depends on the project/team",
+    "Almost always",
+    "Almost never",
+    "Always"
+  ]
+}

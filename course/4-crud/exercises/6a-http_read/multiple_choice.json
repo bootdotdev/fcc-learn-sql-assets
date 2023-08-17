@@ -1,0 +1,8 @@
+{
+  "question": "Which happens first?",
+  "answers": [
+    "A GET request is made",
+    "A SELECT statement is executed",
+    "A JSON response is sent"
+  ]
+}

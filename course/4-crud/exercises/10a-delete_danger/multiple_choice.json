@@ -1,0 +1,9 @@
+{
+  "question": "A soft-delete is where you ____",
+  "answers": [
+    "Mark a row as deleted instead of actually removing the data",
+    "Delete data from a snapshot",
+    "Delete some data, but it's not actually removed from the database for 30 days",
+    "Delete some data by asking your database in a nice soothing voice. Usually with a 'please'."
+  ]
+}

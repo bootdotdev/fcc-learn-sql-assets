@@ -1,0 +1,9 @@
+{
+  "question": "Which form encourages the most accurate and up-to-date information?",
+  "answers": [
+    "BCNF",
+    "1NF",
+    "2NF",
+    "3NF"
+  ]
+}

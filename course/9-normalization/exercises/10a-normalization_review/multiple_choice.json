@@ -1,0 +1,9 @@
+{
+  "question": "When you don't need a composite key, what should the name of your primary key's column be?",
+  "answers": [
+    "id",
+    "identifier",
+    "key",
+    "skeleton_key"
+  ]
+}

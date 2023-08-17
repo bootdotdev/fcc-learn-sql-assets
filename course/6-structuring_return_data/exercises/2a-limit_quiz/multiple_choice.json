@@ -1,0 +1,9 @@
+{
+  "question": "Why might you use a LIMIT clause?",
+  "answers": [
+    "To avoid selecting a huge amount of data and causing strain on the system",
+    "To get as much data as possible",
+    "I wouldn't. System performance is an OPS person's problem",
+    "Because I'm a 'machine learning engineer' and don't care about efficiency"
+  ]
+}
